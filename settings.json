@@ -48,7 +48,7 @@
     "html.autoClosingTags": false,
     "editor.minimap.enabled": false,
     "workbench.editor.enablePreview": false,
-    //"python.pythonPath": "/Users/jun/.pyenv/versions/anaconda3-5.3.1/bin/python",
+    "python.pythonPath": "/Users/jun/.pyenv/versions/anaconda3-5.3.1/bin/python",
 
     // 自動保存
     "files.autoSave": "afterDelay",
@@ -99,4 +99,14 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "java.errors.incompleteClasspath.severity": "ignore",
     "java.configuration.checkProjectSettingsExclusions": false,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "latex-workshop.message.update.show": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.jediEnabled": false,
+    // スニペットのタブストップ中にも入力補完を有効にする
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.autoGuessEncoding": true,  // 文字コードの自動認識
   }
